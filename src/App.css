@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding: 30px;
+}
+
+.App-title {
+  font-size: 1.8em;
+  font: 300 2.5em 'Roboto';
+  color: #1c191c;
+}
+
+.App-title.h1 {
+    display: inline-block;
+}
